@@ -1,0 +1,20 @@
+.tooltip-word {
+    border-bottom: 1px dotted #000;
+!important;
+    text-decoration: none;
+!important;
+    cursor: pointer;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+
+.taken {
+    background-color: gray;
+}
+
+.available {
+    background-color: red;
+}
